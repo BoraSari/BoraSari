@@ -100,6 +100,28 @@ RestfulBookerAPITestingProject (https://github.com/BoraSari/ApiProjectWithPostma
 
 Açıklama: restful-booker.herokuapp.com API'si için token oluşturma, rezervasyon oluşturma, okuma, güncelleme ve silme (CRUD) işlemlerini kapsayan Playwright tabanlı otomatik bir API test paketidir. 🌐🔑 Description: A Playwright-based automated API testing suite covering token creation, and CRUD (Create, Read, Update, Delete) operations for bookings on the restful-booker.herokuapp.com API. 🌐🔑 Kullanılan Teknolojiler / Technologies Used: Playwright (API Testing), TypeScript/JavaScript.
 
+AmazonProductDetailsVerificationAutomation
+(https://github.com/BoraSari/AmazonAddingProductBasketAutomationProject)
+
+Açıklama: Amazon'da ürün arama, detay doğrulama (model numarası) ve sepete ekleme işlevlerini test eden Python tabanlı bir otomasyon projesidir.
+Description: A Python-based automation project testing product search, detail verification (e.g., model number), and add-to-cart functionalities on Amazon.
+Kullanılan Teknolojiler / Technologies Used: Python, Selenium WebDriver, PyTest, Page Object Model (POM).
+
+RockstarGamesUiAutomation
+(https://github.com/BoraSari/RockStarGamesUiAutomation)
+
+Açıklama: Rockstar Games web sitesindeki ana sayfa kontrolleri, video oynatma, yaş doğrulama, arama ve dil değiştirme gibi kapsamlı UI işlevlerini test eden Java tabanlı bir otomasyon projesidir. Bu proje aynı zamanda 3'lü paralel test senaryoları içermektedir.
+Description: A Java-based automation project testing comprehensive UI functionalities on the Rockstar Games website, including homepage controls, video playback, age verification, search, and language change. This project also includes 3-way parallel testing scenarios.
+Kullanılan Teknolojiler / Technologies Used: Java, Selenium WebDriver, TestNG, Page Object Model (POM).
+
+N11AddingProductsFavoritesAutomationProject
+(https://github.com/BoraSari/N11AddingProductsFavoritesAutomationProject)
+
+Açıklama: N11 web sitesindeki kullanıcı girişi, elektronik kategori navigasyonu, ürün fiyatı doğrulama ve ürünleri favorilere ekleme işlevlerini test eden Java tabanlı bir otomasyon projesidir.
+Description: A Java-based automation project testing user login, electronic category navigation, product price verification, and adding products to favorites functionalities on the N11 website.
+Kullanılan Teknolojiler / Technologies Used: Java, Selenium WebDriver, TestNG, Page Object Model (POM), dotenv.
+
+
 📞 İletişim / Contact Benimle iletişime geçmekten çekinmeyin! 📧 Feel free to reach out to me! 📧
 
 LinkedIn: linkedin.com/in/bora-sari-2a5440351 E-posta: borasari04@gmail.com Phone: +1 2017138061/+90 5396477974
