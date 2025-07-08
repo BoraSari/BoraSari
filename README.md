@@ -47,8 +47,6 @@ Proje Yönetimi/Project Management Jira/Confluence
 Diğerleri/Others/Dependincies Maven, java-dotenv,python-dotenv
 
 📈 GitHub İstatistiklerim / My GitHub Stats
-
-📈 GitHub İstatistiklerim / My GitHub Stats
 <p align="center">
 <a href="https://github.com/BoraSari">
 <img src="https://github-readme-stats.vercel.app/api?username=BoraSari&show_icons=true&theme=dracula&count_private=true" alt="Bora'nın GitHub İstatistikleri" />
