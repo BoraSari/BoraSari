@@ -12,9 +12,9 @@
 🇹🇷 Türkiye'den bir QA Otomasyon Mühendisiyim. Yazılım kalitesini artırmak ve test süreçlerini otomatikleştirmek benim tutkum.  
 🇬🇧 I'm a QA Automation Engineer from Turkey. I'm passionate about enhancing software quality and automating testing processes.
 
-- 💼 **Deneyim / Experience**: 1+ yıl boyunca bireysel projelerle QA otomasyon becerileri geliştirdim.  
-- 🎯 **Hedef / Goal**: En iyi uygulamalarla yazılım test süreçlerini daha verimli ve güvenilir hale getirmek.  
-- 💡 **Yetenekler / Skills**: Detay odaklılık, analitik düşünme, takım çalışması, sürekli öğrenme isteği
+- 💼 **Deneyim / Experience**: I developed QA automation skills with individual projects for 1+ years.
+- 🎯 **Hedef / Goal**: Making software testing processes more efficient and reliable with best practices.  
+- 💡 **Yetenekler / Skills**: Detail orientation, analytical thinking, teamwork, desire for continuous learning.
 
 ---
 
