@@ -40,6 +40,13 @@
 
 ## 🚀 Öne Çıkan Projeler / Featured Projects
 
+### 🔧 N11 All Happy Paths Project
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Amazon GIF" width="50" style="vertical-align:middle" />  
+🔗 [Repo Link](https://github.com/BoraSari/N11AllHappyPathsProject)
+🇹🇷 N11 alışveriş platformunun tüm pozitif senaryolarını kapsayan UI otomasyon testlerini içerir. Giriş, ürün arama, filtreleme, sepete ekleme, favorilere ekleme, hesap bölümü işlemleri gibi birçok temel kullanıcı akışı test edilmiştir.
+🇬🇧 Covers comprehensive UI automation tests for N11 including login, product search, filtering, adding to cart/favorites, and account section flows.
+Tools / Araçlar: Playwright, TypeScript, Mobile Dependency Setup, Allure Report,POM
+
 ### 🛍️ Amazon Product Flow Automation  
 <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Amazon GIF" width="50" style="vertical-align:middle" />  
 🔗 [Repo Link](https://github.com/BoraSari/AmazonCartAutomation/tree/master/AmazonTests)  
