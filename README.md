@@ -43,6 +43,8 @@
 ### 🔧 N11 All Happy Paths Project
 <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Amazon GIF" width="50" style="vertical-align:middle" />  
 🔗 [Repo Link](https://github.com/BoraSari/N11AllHappyPathsProject)
+🇹🇷 Bu proje, kariyerime QA Automation Engineer olarak başlarken geliştirdiğim en kapsamlı UI test otomasyon projesidir. Hiçbir iş deneyimim olmadan, tamamen bireysel çabalarımla geliştirildi. Proje, N11 platformundaki kullanıcı akışlarının tamamını (ürün arama, filtreleme, sepete ekleme, favorilere ekleme, hesap işlemleri vb.) kapsar. Testler gerçek bir mobil cihaz üzerinde, landscape modda yürütülmüş; Allure raporu ile desteklenmiştir.  
+🇬🇧 This project is the most detailed UI automation framework I’ve built at the beginning of my QA Automation career. Developed with no prior industry experience, entirely as a personal initiative. It tests complete positive user flows on the N11 e-commerce platform — including login, search, filtering, favorites, cart, and account operations. Executed on a real mobile device in landscape mode, with Allure report integration.  
 🇹🇷 N11 alışveriş platformunun tüm pozitif senaryolarını kapsayan UI otomasyon testlerini içerir. Giriş, ürün arama, filtreleme, sepete ekleme, favorilere ekleme, hesap bölümü işlemleri gibi birçok temel kullanıcı akışı test edilmiştir.
 🇬🇧 Covers comprehensive UI automation tests for N11 including login, product search, filtering, adding to cart/favorites, and account section flows.
 Tools / Araçlar: Playwright, TypeScript, Mobile Dependency Setup, Allure Report,POM
