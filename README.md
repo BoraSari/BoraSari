@@ -33,7 +33,7 @@
 | CI/CD                             | GitHub Actions                                                                                          |
 | Versiyon Kontrol / Version Control | Git, GitHub                                                                                            |
 | Veritabanı / Database              | PostgreSQL                                                                                            |
-| Proje Yönetimi / Project Management | Jira, Confluence                                                                                       |
+| Proje Yönetimi / Project Management | Jira, Confluence, TestRail                                                                                      |
 | Diğer / Others                    | Maven, java-dotenv, python-dotenv                                                                       |
 
 ---
